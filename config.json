@@ -1,0 +1,6 @@
+{
+  "browsertime": {
+    "browser": "chrome",
+    "iterations": 1
+  }
+}

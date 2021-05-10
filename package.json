@@ -1,0 +1,23 @@
+{
+  "name": "sitespeed_navigation",
+  "version": "1.0.0",
+  "description": "a sample sitespeed navigation",
+  "main": "jl_navigation.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujin-sam/sitespeed_navigation.git"
+  },
+  "author": "Sujin Sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujin-sam/sitespeed_navigation/issues"
+  },
+  "homepage": "https://github.com/sujin-sam/sitespeed_navigation#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "sitespeed.io": "^17.3.1"
+  }
+}
